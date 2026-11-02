@@ -2,7 +2,11 @@
 
 2D unsteady CFD study (Ansys Fluent) of a heated micro-channel for electronics cooling. Two enhancement strategies are assessed: an oscillating NACA 0012 airfoil acting as an active mixer (sliding mesh), and nano-encapsulated phase change materials (NEPCM) added to water.
 
-VIDEO_HERE
+
+
+https://github.com/user-attachments/assets/16499f97-b939-460b-8d0e-7d150ca053ed
+
+
 
 *Velocity and streamlines (top), temperature (middle) and specific heat of the mixture (bottom), θ₀ = 15°, St = 0.3, φ = 0.04.*
 
